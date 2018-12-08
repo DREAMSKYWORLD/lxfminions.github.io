@@ -16,7 +16,8 @@ or submitting a issue on my [GitHub](https://github.com/lxfminions/lxfminions.gi
 My English is really not so good (I think you can see it), but I am willing to
 improve continuously. Please let me know if there are some errors.
 
-PS. I use [**NoteTheme**](https://github.com/dinhanhthi/NoteTheme) for this note. Thank you to the author [Thi](https://dinhanhthi.com) created **NoteTheme**.
+PS. I use [**NoteTheme**](https://github.com/dinhanhthi/NoteTheme) for this note. Thank you, [Thi](https://dinhanhthi.com), the author creating the owesome **NoteTheme**. Thanks, the [Jekyll](https://jekyllrb.com) which
+is a blog-aware static site generator in Ruby and [GitHub Pages](https://pages.github.com) hosting your website, blog, etc.
 
 <div class="thi-signature">
     {{ site.user.name }}
