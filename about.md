@@ -10,7 +10,7 @@ Chinese name is Liu Xiaofei, and I love [Minions](https://en.wikipedia.org/wiki/
 
 Notes in this site are only for me, you thus don't understand what the hell I
 wrote sometimes. If you need to understand more or want me to explain something
-to you, don't hestitate to ask me by sending to my email---xiaofei1356@gamil.com
+to you, don't hestitate to ask me by sending email---xiaofei1356@gamil.com
 or submitting a issue on my [GitHub](https://github.com/lxfminions/lxfminions.github.io).
 
 My English is really not so good (I think you can see it), but I am willing to
