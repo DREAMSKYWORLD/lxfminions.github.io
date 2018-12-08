@@ -1,4 +1,4 @@
-title: NoteTheme
+title: Notes of Lxfminions
 description: You cannot remember everything.
 baseurl: ""
 url: "lxfminions.github.io"
@@ -10,9 +10,9 @@ favicon: "/assets/res/favicon.png" # site's favicon (icon left side of your page
 
 # MatJek specific configurations
 user: 
-  name: "lxfminions"
+  name: "Lxfminions"
   email: "xiaofei1356@gmail.com"
-  website: ""
+  website: "lxfminions.github.io"
   avatar: "/assets/res/user.png"
   github: "lxfminions"
 google_tracking_id: ""

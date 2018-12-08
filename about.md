@@ -5,9 +5,17 @@ css: ["about.css", "animate.css", "morphext.css"]
 js: ["morphext.min.js", "about.js"]
 ---
 
-Hi! Glad to see you here. I'm [Thi](https://dinhanhthi.com). I created this site firstly for my personal note taking and now, I wanna share it with you. For me, people cannot remember everything, you must take note what you have learnt. It's useful if you can put your note online and you are able to see it everytime, everywhere with just a phone. That's the reason why this theme was born. 
+Hi! Glad to see you here. I'm [Lxfminions](https://lxfminions.github.io). My
+Chinese name is Liu Xiaofei, and I love [Minions](https://en.wikepedia.org/wiki/Minions_\(film\)) very much, so the first three letters in my English name is my Chinese initials. I used this site for my personal note taking. The language I use in this site is mainly in English but sometimes I use Chinese.
 
-I modified this theme much from the theme MatJek so that you can use it for note taking. Please read [Welcome to NoteTheme]({{ site.baseurl }}/welcome-to-notetheme) for more information and [How to use NoteTheme]({{ site.baseurl }}/how-to-use-notetheme) to know how to use and modify this theme for your purpose.
+Notes in this site are only for me, you thus don't understand what the hell I
+wrote sometimes. If you need to understand more or want me to explain something
+to you, don't hestitate to ask me sending to my email --- xiaofei1356@gamil.com.
+
+My English is really not so good (I think you can see it), but I am willing to
+improve continuously. Please let me know if there are some errors.
+
+PS. I use [**NoteTheme**](https://github.com/dinhanhthi/NoteTheme) for this note. Thank you the author [Thi](https://dinhanhthi.com) created **NoteTheme**.
 
 <div class="thi-signature">
     {{ site.user.name }}
