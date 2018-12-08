@@ -6,16 +6,17 @@ js: ["morphext.min.js", "about.js"]
 ---
 
 Hi! Glad to see you here. I'm [Lxfminions](https://lxfminions.github.io). My
-Chinese name is Liu Xiaofei, and I love [Minions](https://en.wikepedia.org/wiki/Minions_\(film\)) very much, so the first three letters in my English name is my Chinese initials. I used this site for my personal note taking. The language I use in this site is mainly in English but sometimes I use Chinese.
+Chinese name is Liu Xiaofei, and I love [Minions](https://en.wikipedia.org/wiki/Minions_(film)) very much, so the first three letters in my English name is my Chinese initials. I used this site for my personal note taking. The language I use in this site is mainly in English but sometimes I use Chinese.
 
 Notes in this site are only for me, you thus don't understand what the hell I
 wrote sometimes. If you need to understand more or want me to explain something
-to you, don't hestitate to ask me sending to my email --- xiaofei1356@gamil.com.
+to you, don't hestitate to ask me sending to my email---xiaofei1356@gamil.com
+or submitting a issue on my [GitHub](https://github.com/lxfminions/lxfminions.github.io).
 
 My English is really not so good (I think you can see it), but I am willing to
 improve continuously. Please let me know if there are some errors.
 
-PS. I use [**NoteTheme**](https://github.com/dinhanhthi/NoteTheme) for this note. Thank you the author [Thi](https://dinhanhthi.com) created **NoteTheme**.
+PS. I use [**NoteTheme**](https://github.com/dinhanhthi/NoteTheme) for this note. Thank you to the author [Thi](https://dinhanhthi.com) created **NoteTheme**.
 
 <div class="thi-signature">
     {{ site.user.name }}
