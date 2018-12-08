@@ -8,11 +8,12 @@ date: 2018-12-08
 {% include toc.html %}
 ## Overview
 JDBC (Java Database Connectivity) and API provided by Oracle that 
-<div class="card-panel yellow accent-2">allows programmers to handle 
+<div style="background-color: yellow" >allows programmers to handle 
 defferent databases from Java applications</div>: it allows
 developers to establish connection to databases, defines how a specific client
 can access a given database, provides mechanisms for reading, updating and deleting entries of data in a database and takes care of transactions composed
 of different SQL statements.
+
 
 ## Step by step 
 Following below steps, you can make a simple program operate `MySQL` database.
@@ -76,17 +77,21 @@ conn.close();
 </div>
 </div>
 
+
 ## Detailed for relative class
+
 ### Interface
 - `Connection`: A connection (session) with a specific database. SQL statements
  are executed and results are returned within  the context of a connection.
 - `PreparedStatement`: An object that represents a precompiled SQL statement.
 - `ResultSet`: A table of data representing a database result set.
 - `Statement`: The object used for executing a static SQL statement.
+
 ### Class
 - `DriverManager`: The basic service for managing a set of JDBC drivers.
 {% include tip.html content="[More Detail Inforamtion With Oracle.](https://docs.oracle.com/javase/8/docs/api/java/sql/package-summary.html)" %}
-## Watch the whole code
+## Source Code
+Here is the whole JDBC example. 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
 <div class ="collapsible-header" markdown="1"><i class="material-icons">face</i>
