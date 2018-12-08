@@ -8,8 +8,8 @@ date: 2018-12-08
 {% include toc.html %}
 ## Overview
 JDBC (Java Database Connectivity) and API provided by Oracle that 
-<div style="background-color: yellow" >allows programmers to handle 
-defferent databases from Java applications</div>: it allows
+<span style="background-color: yellow" >allows programmers to handle 
+defferent databases from Java applications</span>: it allows
 developers to establish connection to databases, defines how a specific client
 can access a given database, provides mechanisms for reading, updating and deleting entries of data in a database and takes care of transactions composed
 of different SQL statements.
