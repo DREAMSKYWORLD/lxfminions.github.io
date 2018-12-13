@@ -10,13 +10,10 @@ date: 2018-12-13
 
 ## Beamer
 - Beamer themes in [Beamer Theme Matrix](https://hartwork.org/beamer-theme-matrix/)
-  %{% highlight latex %}
    ```latex
     \usetheme{Berkeley}
     \usecolortheme{beaver}
    ```
-  %{% endhighlight %}
-
 
 ## Tikz
 - `+` and `++` operation
