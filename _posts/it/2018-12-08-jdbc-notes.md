@@ -2,7 +2,7 @@
 layout: post
 title: JDBC Notes
 categories: [it]
-tags: [it, java, jdbc]
+tags: [Java, JDBC]
 date: 2018-12-08
 ---
 {% include toc.html %}
