@@ -3,11 +3,11 @@ layout: post
 title: LaTeX notes
 categories: [it]
 tags: [LaTeX]
+toc: 1
 date: 2018-12-13
 ---
 
 {% include toc.html %}
-
 ## Beamer
 - Beamer themes in [Beamer Theme Matrix](https://hartwork.org/beamer-theme-matrix/)
    ```latex
