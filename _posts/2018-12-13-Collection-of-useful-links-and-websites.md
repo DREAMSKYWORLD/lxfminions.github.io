@@ -20,7 +20,7 @@ My collection of good websites.
 - [TeX on StackExchange](https://tex.stackexchange.com): Q&A
 - [Tikz examples](https://www.texample.net/tikz)
 - [LaTeX template](https://www.latextemplates.com)
-- [LaTeX Studio](https://www.latexstudio.net): Chinese Sharing Resource
+- [LaTeX Studio](http://www.latexstudio.net): Sharing Chinese Resources
 - [Detexify](https://detexify.kirelabs.org/classify.html): find the way to write a unknown symbol
 
 ## Tools
