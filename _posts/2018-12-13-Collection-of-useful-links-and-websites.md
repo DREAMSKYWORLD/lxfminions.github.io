@@ -30,4 +30,4 @@ My collection of good websites.
 - Free vector pic/photos stocks: [unsplash](https://unsplash.com), [pexabay](https://pixabay.com), [pexels](https://www.pexels.com), [freepik](https://www.freepik.com).
 
 ## Others
-- [Fold N Fly](https://www.foldnfly.com/) :airplane: : a database of paper airplanes with easy to follow folding instructions.
+- [Fold N Fly](https://www.foldnfly.com/)✈️  : a database of paper airplanes with easy to follow folding instructions.
