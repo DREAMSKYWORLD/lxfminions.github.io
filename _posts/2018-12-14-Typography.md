@@ -1,7 +1,9 @@
-h---
+---
+layout: post
 title: Typography notes
-categories: it
+categories: [it]
 tags: [LaTeX, Typography]
+date: 2018/12/15
 ---
 Reading the book [BUTTERICK'S PRACTICAL TYPOGRAPHY](https://practicaltypography.com/index.html).
 ## Punctuation Marks
