@@ -14,11 +14,11 @@ four curly quote characters: the opening single quote (&lsquo;), the closing
 single quote (&rsquo;), the opening double quote (&ldquo;), and the closing
 quote(&rdquo;).
 {% highlight latex%}
-\`\` This is double curly quotes examle. ''
-\` This is single curly quotes examle.'
+`` This is double curly quotes examle. ''
+` This is single curly quotes examle.'
 {% endhighlight %}
 - *Straight quotes* are two generic vertical quotation marks located near the
-return key: the straight single quote (') and the straight double quote (").
+return key: the straight single quote (\') and the straight double quote (\").
 {% highlight latex %}
 \textquotesingle % product a straight single quote
 \textquotedbl % product a straight double quote
