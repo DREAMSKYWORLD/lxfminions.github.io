@@ -20,3 +20,15 @@ date: 2018-12-13
       \draw (x1, y1) -- +(x2, y2) -- +(x3, y3); % from (x1, y1) to (x1+x2, y1+y2) to (x1+x3, y1+y3)
       \draw (x1, y1) -- +(x2, y2) -- ++(x3, y3); % from (x1, y1) to (x1+x2, y1+y2) to (x1+x2+x3, y1+y2+y3)
   ```
+- Standalone TeX file is able to compile the pictures on thier own and can be included in other files through `\input` or `\include`.
+  ```latex
+  \documentclass[tikz]{standalone}
+  \usepackage{tikz}
+  \begin{document}
+
+  \begin{tikzpicture}
+    % code in here
+  \end{tikzpicture}
+
+  \end{document}
+  ```
