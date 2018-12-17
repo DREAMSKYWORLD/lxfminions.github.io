@@ -14,6 +14,12 @@ My collection of good websites.
 - [Lifewire](https://www.lifewire.com): tips & tutorials
 - [Discover, collect & vote on the best](https://www.wdstack.com)
 
+
+## Unix & Linux
+- [The art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html): Book
+- The UNIX-HEATERS Handbook: book
+- Alice in UNIX Land: a joke difficult understanding for me
+
 ## LaTeX
 - [TeX FAQ](https://texfaq.org): The TeX Frequently Asked Question List
 - [texblog.org](https://texblog.org): many things
