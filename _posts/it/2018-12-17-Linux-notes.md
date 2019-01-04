@@ -28,9 +28,9 @@ update: 2019/01/04
 2. File type isn't of accosiation with postfix in Linux.
 3. ps: `pts` is a abbreviation of **pseudoterminal devices**
 4. Install google font on ubuntu 18.04 LTS:
-  1. `cd /usr/share/fonts`
-  2. `sudo mkdir googlefonts`
-  3. `unzip -d . ~/Downloads/fonts.zip`
-  4. `sudo chmod -R --reference=opentype googlefonts`
-  5. `sudo fc-cache -fv`: register fonts
-  6. `fc-match font_name`: check if font installed
+    1. `cd /usr/share/fonts`
+    2. `sudo mkdir googlefonts`
+    3. `unzip -d . ~/Downloads/fonts.zip`
+    4. `sudo chmod -R --reference=opentype googlefonts`
+    5. `sudo fc-cache -fv`: register fonts
+    6. `fc-match font_name`: check if font installed
