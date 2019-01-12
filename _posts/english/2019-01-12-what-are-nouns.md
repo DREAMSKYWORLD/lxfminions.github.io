@@ -1,10 +1,12 @@
 ---
 title: What is a noun
+categories: English
 tags: [Grammar, Noun]
 ---
 
 ## What Is a Noun
 Learning [Grammar Rovolution](https://www.english-grammar-revolution.com/what-is-a-noun.html)
+
 **Nouns** are words that name pepople, places, things, or ideas.
 
 ### The Noun Jobs
@@ -27,11 +29,11 @@ these categories." %}
 
 - Common: These name general, nonspecific people, places, things or ideas.
 - Proper: These name specific people, places, things or ideas. They always start with a capital letter.
-- Concrete: These name something that you can perceive with your five senses -
-something that ***physically*** exists.
+- Concrete: These name something that you can perceive with your five senses 
+-- something that ***physically*** exists.
 - Abstract: These are the opposite of concrete.
 - Countable: These can be counted, and they use both the sigular and the plural
-forms,
+forms.
 - Uncountable: These guys cannot be counted. They only use the sigular form.
 - Sigular: These refer to *one* person, place, thing, or idea.
 - Plural: These refer to *more than one* person, place, thing, or idea. They
@@ -50,6 +52,6 @@ They can also be **plural**. When the sentence is highlighting *the individuals
 among the group*, the noun is *plural*.
 
 #### Possessive Nouns
-**Possessive nouns** are nouns that show ownership. It functions as **adjectives**
+**Possessive nouns** are nouns that show ownership. It functions as **adjectives**.
 
 Even though they function as adjectives, they maintain some of their "noun-ness" and can still be modified by adjectives.

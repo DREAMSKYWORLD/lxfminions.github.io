@@ -1,6 +1,6 @@
 ---
 title: English Grammar Notes
-categories:
+categories: English
 tags: [Grammar, English]
 ---
 
