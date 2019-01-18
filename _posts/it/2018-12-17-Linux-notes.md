@@ -3,7 +3,7 @@ layout: post
 title: Linux notes
 categories: [it]
 tags: [Linux]
-update: 2019/01/04
+date: 2019/01/04
 ---
 
 ## PackageManage

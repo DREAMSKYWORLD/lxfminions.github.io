@@ -1,6 +1,7 @@
 ---
 title: Collection of useful links and websites
 categories: others
+date: 2019-01-15
 ---
 My collection of good websites.
 
@@ -8,11 +9,17 @@ My collection of good websites.
 
 ## Maths
 1. A Primer on Bézier Curves (post on [GitHub](https://github.com/Pomax/BezierInfo-2/)): [books](https://pomax.github.io/bezierinfo/en-GB/).
+2. [Seeing theory](https://seeing-theory.brown.edu): A visual introduction to
+probability and statistics. (English & Chinese)
+3. [openstax](https://openstax.org): Learning resources for maths, sciences, etc.
+4. [D3 Graph Theory](https://mrpandey.github.io): Learn graph theory interactively. 
 
 ## IT
 - [DevDocs](https://devdocs.io): documentations
 - [Lifewire](https://www.lifewire.com): tips & tutorials
 - [Discover, collect & vote on the best](https://www.wdstack.com)
+### Network
+- [TCP/IP Guide](https://www.tcpipguide.com): for learning network.
 
 
 ## Unix & Linux
@@ -36,4 +43,10 @@ My collection of good websites.
 - Free vector pic/photos stocks: [unsplash](https://unsplash.com), [pexabay](https://pixabay.com), [pexels](https://www.pexels.com), [freepik](https://www.freepik.com).
 
 ## Others
+### Language
+- [English Grammar Revolution](https://www.english-grammar-revolution.com)
+- [Vocab.com](https://www.vocabulary.com): App & website for learning vacabulary.
+
+### Fun
 - [Fold N Fly](https://www.foldnfly.com/)✈️  : a database of paper airplanes with easy to follow folding instructions.
+
