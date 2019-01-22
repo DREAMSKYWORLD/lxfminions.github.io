@@ -86,4 +86,4 @@ is an ***interrogative sentence***. Interrogative pronouns often begin interroga
 
 **his, hers, your, theirs**
 
-{% include warnning.html content="When possessive pronouns are used before nouns, they are actually being used as adjectives, not pronouns." %}
+{% include warning.html content="When possessive pronouns are used before nouns, they are actually being used as adjectives, not pronouns." %}
