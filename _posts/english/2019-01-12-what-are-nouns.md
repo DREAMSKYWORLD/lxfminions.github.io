@@ -1,7 +1,7 @@
 ---
 title: What is a noun
 categories: English
-tags: [Grammar, Noun]
+tags: [Grammar, Speech]
 ---
 
 ## What Is a Noun

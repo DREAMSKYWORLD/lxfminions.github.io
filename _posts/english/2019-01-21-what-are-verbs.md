@@ -1,3 +1,8 @@
+---
+title: What Are Verbs
+categories: English
+tags: [Grammar, English, Speech]
+---
 ## What Are Verbs
 **Verbs** are words that express actions or states of being.
 

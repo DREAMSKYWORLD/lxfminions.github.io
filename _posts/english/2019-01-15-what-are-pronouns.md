@@ -1,7 +1,7 @@
 ---
 title: What is a pronoun
 categories: English 
-tags: [Grammar]
+tags: [Grammar, Speech]
 ---
 ## What Is A Pronoun
 A **pronoun** is a word that takes the place of a noun. *pro* means "on behalf

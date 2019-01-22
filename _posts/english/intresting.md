@@ -1,1 +1,0 @@
-1. penny = 1 cent; nickel = 5 cents;  dime = 10 cents; quarter= 25 cents;
