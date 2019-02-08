@@ -1,7 +1,7 @@
 ---
 title: Collection of useful links and websites
 categories: others
-date: 2019-01-15
+date: 2019-02-08
 ---
 My collection of good websites.
 
@@ -15,14 +15,16 @@ probability and statistics. (English & Chinese)
 4. [D3 Graph Theory](https://mrpandey.github.io): Learn graph theory interactively. 
 
 ## IT
+### Docs & News
 - [DevDocs](https://devdocs.io): documentations
 - [Lifewire](https://www.lifewire.com): tips & tutorials
 - [Discover, collect & vote on the best](https://www.wdstack.com)
+- [Better Dev Link](https://betterdev.link): Weekly links to help you become a
+better developer
 ### Network
 - [TCP/IP Guide](https://www.tcpipguide.com): for learning network.
 
-
-## Unix & Linux
+### Unix & Linux
 - [The art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html): Book
 - The UNIX-HEATERS Handbook: book
 - Alice in UNIX Land: a joke difficult understanding for me
